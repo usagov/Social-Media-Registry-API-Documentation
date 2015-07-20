@@ -9,9 +9,9 @@
 *   [Terms of Service](#terms-of-service)
 
 ## About the API
-This documentation describes methods to use the Social Media Registry API to access the contents of the [Social Media Registry](/Contact/verify-social-media.shtml).
+This documentation describes methods to use the Social Media Registry API to access the contents of the [Social Media Registry](https://www.usa.gov/verify-social-media).
 
-The [Social Media Registry](/Contact/verify-social-media.shtml) is an official source of information about social media accounts that represent official U.S. federal government agencies, elected officials, or members of the President’s Cabinet.
+The [Social Media Registry](https://www.usa.gov/verify-social-media) is an official source of information about social media accounts that represent official U.S. federal government agencies, elected officials, or members of the President’s Cabinet.
 
 If you work for the federal government and have a .gov or .mil e-mail address, you can register official U.S. federal accounts at [DigitalGov.gov](http://www.digitalgov.gov/services/social-media-registry/).
 
@@ -21,9 +21,9 @@ If you have feedback, questions, or want to tell us about the product you built 
 
 The interface described here uses the same method URLs and parameters for all response formats, including HTML5, JSON, and XML. If no response format is specified at request time, the results are returned as HTML5 (with the assumption that a user is accessing the API via a web browser). To specify alternate formats, append the result format to the method call:
 
-[http://registry.usa.gov/accounts?agency_id=usda](http://registry.usa.gov/accounts?agency_id=usda)
-[http://registry.usa.gov/accounts.json?agency_id=usda](http://registry.usa.gov/accounts.json?agency_id=usda)
-[http://registry.usa.gov/accounts.xml?agency_id=usda](http://registry.usa.gov/accounts.xml?agency_id=usda)
+* [http://registry.usa.gov/accounts?agency_id=usda](http://registry.usa.gov/accounts?agency_id=usda)  
+* [http://registry.usa.gov/accounts.json?agency_id=usda](http://registry.usa.gov/accounts.json?agency_id=usda)  
+* [http://registry.usa.gov/accounts.xml?agency_id=usda](http://registry.usa.gov/accounts.xml?agency_id=usda)  
 
 API requests can be called from remote sites via Javascript using the [Cross-Origin Resource Sharing](http://www.w3.org/TR/cors/) mechanism (CORS) supported in most browsers. All published API methods may be called from any domain.
 
