@@ -187,4 +187,4 @@ The code for the Social Media Registry is open source and available on [GitHub](
 
 ## Terms of Service
 
-By using this data, you agree to the [Terms of Service](/About/developer-resources/terms-of-service.shtml).
+By using this data, you agree to the [Terms of Service](https://www.usa.gov/developer-terms-of-service).
