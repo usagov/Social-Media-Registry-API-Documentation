@@ -6,4 +6,4 @@ Data fields in the registry include the agency, platform, account, language, poi
 
 Developers are encouraged to use the API to verify the thousands of official accounts and mobile apps in order to maintain trust in official public service engagements, and build new user-centered programs to empower citizens.
 
-You can view both the [interactive documentation](https://socialmobileregistry.digitalgov.gov/#swagger-api-docs) and [open source code](https://github.com/GSA/social-media-registry); if you are using the API and have feedback or want to tell us about your product, please [email us](mailto:socialmediaregistry@gsa.gov). 
+You can view both the [interactive documentation](https://socialmobileregistry.digitalgov.gov/#swagger-api-docs) and [open source code](https://github.com/GSA/social-media-registry); if you are using the API and have feedback or want to tell us about your product, please email us at <socialmediaregistry@gsa.gov>. 
